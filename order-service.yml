@@ -2,7 +2,7 @@ test:
   message: Hello from default
 
 server:
-  port: 8082
+  port: 0
 
 spring:
   datasource:
